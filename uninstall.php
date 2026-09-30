@@ -1,0 +1,2 @@
+<?php
+// Uninstall cleanup placeholder.
